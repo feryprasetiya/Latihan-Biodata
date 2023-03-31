@@ -1,0 +1,10 @@
+Biodata Saya
+
+Nama                    : Fery Prasetiya T
+Jenis Kelamin           : Laki-laki
+Tempat & Tanggal Lahir  : Bandung, 07 Oktober 1999
+Alamat                  : Kp. Babakan Jawa - Kab Bandung
+Agama                   : Islam
+Pendidikan              : SMA
+
+Updated.
